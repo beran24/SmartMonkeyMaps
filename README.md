@@ -1,2 +1,0 @@
-# SmartMonkeyMaps
-Created with CodeSandbox
